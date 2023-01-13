@@ -1,0 +1,17 @@
+
+.main-his {
+margin-left: 310px;
+margin-top: 40px;
+display: flex;
+}
+.Histogram {
+    background-color:#fff;
+    width: 500px;
+    height: 320px;
+    display: flex;
+    border-radius: 14px;
+    justify-content: space-between;
+    position: relative;
+    align-items: center;
+    margin-right: 50px;
+  }

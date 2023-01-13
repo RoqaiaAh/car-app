@@ -1,0 +1,23 @@
+.car
+{
+   padding-left: 270px;
+   
+}
+.car-cards {
+    margin-left: 20px;
+    margin-top: 50px;
+    display: inline-flex;
+
+ }
+ .single-car-card {
+    background-color:#fff;
+    width: 350px;
+    height: 266px;
+    align-items: center;
+    display: flex;
+    border-radius: 14px;
+    justify-content: space-between;
+    position: relative;
+    margin-left: 20px;
+    padding-left: 35px;
+ }

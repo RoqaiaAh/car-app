@@ -1,0 +1,55 @@
+.dash-main 
+{
+   padding-left: 270px;
+   
+}
+.dashboard {
+    margin-left: 40px;
+    margin-top: 105px;
+    display: inline-flex;
+
+ }
+ .single-card {
+    background-color:#fff;
+    width: 232px;
+    height: 266px;
+    display: flex;
+    border-radius: 14px;
+    justify-content: space-between;
+    position: relative;
+
+ 
+ }
+ .single-card:hover {
+   background-color: #A162F7;
+   cursor: pointer;
+ }
+ .card-content{
+    color:black;
+    text-align: center;
+ }
+ .card-content:hover{
+   color:#fff;
+ }
+.percentage-flash{
+  margin-left: 80px;
+}
+
+ .flash {
+   position: relative;
+   top:38px;
+   left:0.5px;
+   color: #fff;
+ }
+
+.txt {
+  margin-left: 80px;
+  margin-top: 85px;
+  position: absolute;
+  font-weight: bold;
+  display: block;
+}
+.Review{
+  margin-top: 180px;
+  margin-right:80px
+}
